@@ -22,7 +22,7 @@ export default function Navbar() {
             <div className="flex items-center justify-between mx-auto max-w-2xl px-4 sm:px-6 lg:max-w-7xl">
                 <Link href="/">
                     <h1 className='text-xl md:text-4xl font-bold'>
-                        Dumb<span className='text-primary'>Cart</span>
+                        Kong<span className='text-primary'>merce</span>
                     </h1>
                 </Link>
                 <nav className="hidden gap-12 lg:flex 2xl:ml-16">
